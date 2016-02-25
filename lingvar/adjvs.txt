@@ -1,0 +1,606 @@
+<BRJ/	Hebrew
+<BWT/	branchy
+<CJR/	rich
+<CN=/	smoking
+<CTRTJ/	Ashterathite
+<CWT/	wrought
+<DJN/	voluptuous
+<DLMJ/	Adullamite
+<FJRJ/	tenth
+<GL=/	round
+<JP/	faint
+<JRM/	naked
+<LG/	stammerer
+<LJ/	highest
+<LJ/	upper
+<LJWN/	most high
+<LJWN/	upper
+<LJZ/	rejoicing
+<LMJ/	Elamite
+<LZ/	rejoicing
+<MJQ/	deep
+<ML=/	labouring
+<MLQJ/	Amalekite
+<MQ=/	deep
+<MQ==/	unintelligible
+<MRMJ/	Amramite
+<MWNJ/	Ammonite
+<NG/	dainty
+<NH/	humble
+<NJ/	humble
+<NP=/	branchy
+<NTTJ/	Anathothite
+<NW/	humble
+<QC/	crooked
+<QD/	twisted
+<QLQL/	crooked
+<QLTWN/	crooked
+<QR/	barren
+<QRWNJ/	from Ekron
+<R<RJ/	Aroerite
+<RB=======/	pleasant
+<RBJ/	Arab
+<RBJ=/	Arab
+<RBTJ/	Arbathite
+<RJ/	Erite
+<RJRJ/	childless
+<RJY/	ruthless
+<RL/	uncircumcised
+<RNJ/	Eranite
+<RQJ/	Arkite
+<RWM/	naked
+<RWM=/	shrewd
+<TJ/	ready
+<TJD/	ready
+<TJQ/	old
+<TJQ/	removed
+<TJQ=/	choice
+<TQ/	unrestrained
+<TQ=/	hereditary
+<VWP/	feeble
+<WR/	blind
+! <YJB/	sad
+<YL/	sluggish
+<YWM/	mighty
+! <Z===/	strong
+<ZJ>LJ/	Uzzielite
+<ZRJ/	-ezrite
+<ZTJ/	from Gaza
+! <ZWZ=/	powerful
+! >BJR/	strong
+! >BJR=/	strong
+>BJWN/	poor
+! >BL===/	mourning
+>CBLJ/	Ashbelite
+>CDWDJ/	from Ashdod
+! >CM=/	guilty
+>CQLWNJ/	Ashkelonite
+>CRJ/	from Asher
+>CT>LJ/	Eshtaolite
+>CWRJ/	Ashurite
+! >DJR/	mighty
+>DM=/	red
+>DMDM/	reddish
+>DMJ/	Edomite
+>DMNJ/	red
+>FRJ>LJ/	Asrielite
+>GGJ/	Agagite
+! >GM=/	grieved
+>J<ZRJ/	Iezerite
+! >JM/	frightful
+! >JMTNJ/	terrible
+>JTN/	ever-flowing
+>JTWN/	<uncertain>
+>KZB/	deceitful
+! >KZR/	cruel
+! >KZRJ/	cruel
+>LJ/	-elite
+>LM/	speechless
+>LNJ/	Elonite
+>LQCJ/	Elkoshite
+>LWP=/	familiar
+! >MJY/	strong
+>MLL/	decaying
+>MLL=/	fading away
+>MRJ/	Amorite
+>MWN/	faithful
+>MY=/	piebald
+>NWC=/	incurable
+>PJL/	late
+! >PJQ=/	strong
+>PRTJ/	Ephrathite
+>R>LJ/	Arelite
+>RBJ/	Arbite
+>RDJ/	Ardite
+>RJK/	fitting
+>RK/	long
+>RK==/	long
+>RKJ/	Arkite
+>RKWJ/	Erechite
+>RMJ/	Aramean
+>RMJ=/	in Aramaic
+>RRJ/	<uncertain>
+>RWDJ/	Arvadite
+>RWDJ=/	Arodite
+>RWZ/	solid
+>VR/	left-handed
+! >WJL/	foolish
+! >WLJ/	awkward
+>XCTRJ/	Ahashtarite
+>XCTRN/	royal
+>XJRMJ/	Ahiramite
+>XR=/	other
+>XRJ/	another
+>XRN/	another
+>XRWN/	at the back
+>XWXJ/	Ahohite
+>XZ/	holding
+>YJL=/	noble
+>ZNJ/	Oznite
+>ZRXJ/	Ezrahite
+B<R/	stupid
+B>JC/	bad
+B>RTJ/	Beerothite
+BBLJ/	Babylonian
+BCL/	cooked
+BGWD/	treacherous
+BHJR/	brilliant
+BKRJ/	Bekerite
+BL<J/	Belaite
+! BLH/	worn out
+BR==/	pure
+BRD=/	speckled
+BRJ<J/	Beriite
+BRJ>/	fat
+BRWR/	pure
+BRX/	fleeing
+BRXMJ/	Barhumite
+BWZJ/	Buzite
+BXJR/	chosen
+BXRMJ/	Baharumite
+BYWR/	fortified
+C<LBNJ/	Shaalbonite
+C<R==/	burst
+! C<RWR/	horrible
+! C<RWRJ/	horrible
+! C>NN/	at ease
+C>WLJ/	Shaulite
+CBJ<J/	seventh
+CCJ/	sixth
+CJLNJ/	Shilonite
+CKMJ/	Shechemite
+CKR/	drunk
+CKWL=/	bereaved of children
+CKWL==/	bereaved of children
+CKWR/	drunk
+! CLH/	carefree
+CLJCJ/	third
+! CLJV/	mighty
+CLJV/	tyrant
+CLJW/	quiet
+CLM=/	complete
+CLMJ/	Shillemite
+CLNJ/	Shelanite
+CLVT/	domineering
+CM<J/	Shimeite
+CM<NJ/	Simeonite
+CM<TJ/	Shimeathite
+CMCJ/	-shemeshite
+CMJD<J/	Shemidaite
+CMJNJ/	eighth
+CMM/	desolate
+CMN=/	fat
+CMN==/	fat
+CMRNJ/	Shimronite
+CMRWNJ/	from Samaria
+CMTJ/	Shumathite
+CNJ/	second
+CPJR/	beautiful
+CPL/	low
+CPL==/	low
+CPMJ/	Shiphmite
+CRWNJ/	Sharonite
+CTLXJ/	Shuthelahite
+CWBB/	apostate
+CWBB=/	apostate
+CWCNKJ/	man from Susa
+CWLL/	barefoot
+CWLMJ/	Shulammite
+CWNJ/	Shunite
+CWNMJ/	Shunammite
+CWPMJ/	Shuphamite
+CWQQ/	narrow
+CWXJ/	Shuhite
+CWXMJ/	Shuhamite
+CX/	downcast
+CXR=/	black
+CXRXR/	blackish
+DBQ=/	clinging, cleaving to
+DCN=/	fat
+DDNJ/	Dedanites
+DHJ/	Dehite
+DJNJ/	<uncertain>
+! DK/	oppressed
+DK>/	crushed
+DL/	poor
+DNJ/	Danite
+DQ/	thin
+! DWH/	unwell
+! DWJ=/	ill
+F<JR===/	hairy
+FB<=/	sated
+! FGJ>/	exalted
+FGJ>/	much
+FKJR/	hired
+FM>LJ/	lefthand
+! FMX/	joyful
+FNJ>/	disdained
+FRJQ/	carded
+FRQ=/	bright red
+FWKTJ/	Sucathite
+! G>/	haughty
+! G>H/	haughty
+GB<TJ/	Gibeathite
+GB<WNJ/	Gibeonite
+GBH/	high
+GBH==/	tall
+GBLJ/	Gebalite
+GBN/	hunched
+GBX/	bald
+GCWRJ/	Geshurite
+GDJ=/	Gadite
+GDL=/	growing
+GDRJ/	Gederite
+GDRTJ/	Gederathite
+GDWL/	great
+GJLNJ/	Gilonite
+GL<DJ/	Gileadite
+GLMWD/	barren
+GRCNJ/	Gershonite
+GRGCJ/	Girgashite
+GRMJ/	Garmite
+GTJ/	Gittite
+GWNJ/	Gunite
+GZRJ/	Girzite
+GZWNJ/	Gizonite
+HGRJ/	Hagrite
+HPKPK/	crooked
+HRH/	pregnant
+HRRJ/	Hararite
+HRWRJ/	Harorite
+! J<P/	weary
+J>JRJ/	Jairite
+JBC/	dry
+JBWSJ/	Jebusite
+JCBJ/	Jashubite
+JCC/	aged
+JCJC/	aged
+JCM<>LJ/	Ishmaelite
+JCN/	sleeping
+JCN=/	old
+JCR/	right
+JCWJ/	Ishvite
+JDJD/	beloved
+JFR>LJ/	Israelite
+! JG</	weary
+! JGJ<=/	weary
+! JGWR/	fearing
+! JHJR/	haughty
+JHWDJ/	Jew
+JHWDJ/	Jewish
+JKJNJ/	Jakinite
+JLWD/	new-born
+JMJNJ/	Benjaminite
+JMJNJ=/	Jaminite
+JMNJ/	right-hand
+JPH/	beautiful
+JPLVJ/	Japhletite
+JQJR/	difficult
+JQJR/	precious
+JQR/	rare
+! JR>/	afraid
+JRQRQ/	pale-green
+JRXM>LJ/	Jerahmeelite
+JTJR/	excessive
+JTRJ/	Ithrite
+JWNJ/	Greek
+JXJ>LJ/	Jehieli
+JXJD/	only one
+JXL>LJ/	Jahleelite
+JXP/	barefoot
+JXY>LJ/	Jahzeelite
+JYHRJ/	Izharite
+JYJB/	reliable
+JYRJ/	Jezerite
+JZR<>LJ/	Jezreelite
+KBD/	heavy
+KBJR/	great
+KCJ/	Ethiopian
+KFDJ/	Chaldaean
+KHH/	dim
+KLBJ/	Calebite
+KLH==/	failing
+KLJL/	entire
+KN/	correct
+KN<NJ/	Canaanite
+KPTRJ/	Caphtorite
+KRMJ/	Carmite
+KRMLJ/	Carmelite
+KRTJ/	Cherethite
+! KSJL/	insolent
+KTJT/	beaten, pure
+KXC=/	mendacious
+LBN/	white
+LBNJ/	Libnite
+LBWC=/	clad
+LN/	spending night
+LWBJ/	Libyan
+LWJ/	Levite
+LX=/	fresh
+LXMJ/	-lehemite
+LY/	scorner
+M<KTJ/	Maacathite
+MCQD/	almond-like
+MCR<J/	Mishraite
+MDJ=/	Mede
+MDJ=/	Median
+MDJNJ/	Midianite
+MDNJ/	Medanite
+! MGN=/	insolent
+MHJR/	quick
+MKJRJ/	Makirite
+MKRTJ/	Mekerathite
+ML>/	full
+MLKJ>LJ/	Malkielite
+MNCJ/	Manassite
+MNXTJ/	Manahathite
+! MR/	bitter
+! MRD=/	rebellious
+! MRJRJ/	bitter
+MRNTJ/	Meronothite
+! MRR/	bitter
+MRRJ/	Merarite
+MRWX/	crushed
+MSKN/	poor
+MTNJ/	Mithnite
+MTQ=/	sweet
+MTWQ/	sweet
+MVRJ/	Matrite
+MW>BJ/	Moabite
+MWCJ/	Mushite
+MWRCTJ/	from Moresheth
+MXLJ/	Mahlite
+MXLTJ/	Meholathite
+MYRJ/	Egyptian
+! MZH/	hungry
+! N<JM/	pleasant
+N<MJ/	Naamite
+N<MTJ/	Naamathite
+N>/	raw
+! N>WH/	lovely
+! NBL/	stupid
+! NDJB/	willing
+NGX/	goring
+NK>/	smitten
+NK>=/	smitten
+NKH/	smitten
+NKRJ/	foreign
+NKX/	straight
+NMW>LJ/	Nemuelite
+NQ>/	pure
+NQBH/	female
+NQD=/	speckled
+! NQJ/	innocent
+NVJL/	weighing
+NVWPTJ/	Netophathite
+NWH==/	<uncertain>
+NXLMJ/	Nehelamite
+NXWC/	bronze
+PJPJWT/	double-edged
+PL>J/	miraculous
+PL>J=/	Palluite
+PLCTJ/	Philistine
+PLJLJ/	calling for judgment
+PLTJ/	Pelethite
+PLVJ/	Paltite
+PNJMJ/	inner
+PQX/	clear-sighted
+PR<TWNJ/	Pirathonite
+PRSJ/	Persian
+PRYJ/	Perezite
+PRZJ/	Perizzite
+! PSX=/	lame
+! PTLTL/	queer
+PWNJ/	Puite
+PWTJ/	Puthite
+! QCB=/	attentive
+! QCB==/	attentive
+QCH/	hard
+QDC=/	temple prostitute
+QDJC/	holy
+QDMJ/	first
+QDMNJ/	eastern
+QDMNJ=/	easterner
+QDMWN/	eastern
+QDWC/	holy
+QHTJ/	Kohathite
+QJM/	during
+QJNJ/	Kenite
+QJYWN/	outermost
+QL/	light
+QLL/	burnished
+! QN>/	jealous
+! QNW>/	jealous
+QNZJ/	Kenizzite
+QR=/	cool
+QRB=/	approaching
+QRJ>/	summoned
+QRWB/	near
+QRX=/	bald
+QRXJ/	Korahite
+QVN/	small
+QVN=/	small
+QYR=/	short
+QYWR/	shorter
+R</	evil
+! R<B=/	hungry
+R<NN/	flourishing
+R<NN/	luxuriant
+R>CH=/	upper
+R>CWN/	first
+R>CWNJ/	first
+R>WBNJ/	Reubenite
+RB/	great
+RB/	much
+RBJ<J/	fourth
+! RC</	guilty
+RG<=/	quiet
+RGLJ/	on foot
+! RGZ=/	excited
+RJQ=/	empty
+RK/	tender
+RKBJ/	Recabite
+RMTJ/	Ramathite
+RPH/	slack
+RQ</	beaten
+RQ=/	thin
+RVB/	sapful
+RWH/	watered
+RXB/	wide
+RXJQ/	far
+! RXMNJ/	compassionate
+RXQ/	far
+! RXWM/	compassionate
+RXWQ/	remote
+RZH/	lean
+! S<P/	despicable
+SJNJ/	Sinite
+SKJ/	Sukkite
+! SKL/	foolish
+! SLX/	forgiving
+! SMR/	bristly
+SPRWJ/	Sepharvite
+! SR/	sullen
+! SRB/	obstinate
+SRDJ/	Seredite
+SRWX/	overhanging
+SWR/	backsliding
+TCBJ/	Tishbite
+TCJ<J/	ninth
+TJKWN/	middle
+TJMNJ/	Temanite
+TJMNJ=/	Temenite
+TJYJ/	Tizite
+TLJTJ/	third
+TLWL/	lofty
+TM/	complete
+TMJM/	complete
+TMNJ/	Timnite
+TNJN/	second
+! TQJP/	mighty
+! TQJP/	strong
+TQW<J/	Tekoite
+TR<TJ/	Tirathite
+TWL<J/	Tolaite
+TXKMNJ/	Tahkemonite
+TXNJ/	Tahanite
+TXTJ/	lower
+TXTWN/	lower
+VB/	good
+VHR/	pure
+VM>/	unclean
+VRJ/	fresh
+VRP=/	fresh plucked
+VWB/	good
+! WZR/	guilty
+XBRJ/	Heberite
+XBRNJ/	Hebronite
+XCK=/	dark
+XCTJ/	Hushathite
+XD/	sharp
+XDC/	new
+XDL/	ceasing
+XDT/	new
+XGJ/	Haggite
+XGWR/	girded
+XJ/	alive
+XJ/	living
+XJH=/	bearing easily
+XJYWN/	external
+XKJM/	wise
+XKLJLJ/	dull
+XKM/	wise
+XL/	profane
+XLL/	pierced
+XLQ=/	smooth
+XLQ==/	smooth
+XLQJ/	Helekite
+XM==/	hot
+XMJCJ/	fifth
+XMTJ/	Hamathite
+XMWLJ/	Hamulite
+XMWY/	coloured
+XNKJ/	Hanochite
+! XNP/	alienated
+! XNWN/	gracious
+XP/	clean
+XPCJ/	released
+XPRJ/	Hepherite
+! XPY=/	delighting
+XRB==/	dry
+XRC=/	deaf
+! XRD/	trembling
+XRDJ/	Harodite
+XRJ/	Horite
+XRJCJ/	<uncertain>
+XRNJ/	Horonite
+XRWPJ/	Haruphite
+XRWY=/	cut
+XRWY====/	assiduous
+! XSJD/	loyal
+XSJR/	wanting
+! XSN/	strong
+XSR/	lacking
+! XT=/	terror-filled
+XTJ/	Hittite
+XV>=/	sinful
+XWJ/	Hivite
+XWM/	ruttish
+XWPMJ/	Huphamite
+XWR/	white
+XYRWNJ/	Hezronite
+! XZQ/	strong
+! XZQ==/	strong
+Y<JR/	little
+Y>J/	filthy
+YBH/	swollen
+YDJQ/	just
+YHB/	gleaming
+YJDNJ/	Sidonian
+! YM>/	thirsty
+YMRJ/	Zemarite
+YNM/	barren
+! YNW</	humble
+YPWNJ/	Zephonite
+YPWNJ=/	northern
+YR/	narrow
+YR<J/	Zorite
+YR<TJ/	Zorathite
+YRB/	burning
+YRJ=/	Tyrian
+YX/	clear
+YXH/	parched
+YXR/	yellowish red
+Z<JR/	small
+! Z<P=/	raging
+ZBWLNJ/	Zebulunite
+! ZD/	insolent
+ZHJR/	cautious
+ZJDWN/	running
+ZJPJ/	Ziphite
+ZK/	pure
+ZKR=/	male
+ZKWR=/	remembering
+ZQN/	old
+ZR/	strange
+ZRXJ/	Zerahite

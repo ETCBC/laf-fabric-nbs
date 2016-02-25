@@ -1,0 +1,6 @@
+select all objects
+in {1-100}
+where
+[subphrase AS sp
+ [word parents HAS sp.self]
+]

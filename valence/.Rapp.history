@@ -1,0 +1,83 @@
+help.start()
+x <- rnorm(50)
+y <- rnorm(x)
+plot(x,y)
+ls()
+rm(x,y)
+x <- rnorm(50)
+rm(x,y)
+x <- rnorm(50)
+y <- rnorm(x)
+plot(x,y)
+rm(x,y)
+x <- rnorm(10)
+y <- x
+plot(x,y)
+rm(x,y)
+x <- rnorm(50)
+y <- sqrt(x)
+rm(y)
+y <- x*x
+plot(x,y)
+z <- x*x*x
+plot(x,z)
+plot(z,x)
+plot(y,x)
+x <- rnorm(50)
+y <- rnorm(x)
+plot(x,y)
+rm(x,y)
+x <- rnorm(50)
+y <- x*x
+plot(x,y)
+plot(y,x)
+help.start()
+read.table("/Users/dirk/Scratch/shebanq/results/db/total/distant/rstats.txt")
+verses <- read.table("/Users/dirk/Scratch/shebanq/results/db/total/distant/rstats.txt")
+label <- verses[[1]]
+t <- verses[[2]]
+plot(label, t)
+exit
+dummy <- data.frame(x=x, y=x+rnorm(x)*w)
+ls
+ls()
+rm character
+rm(character)
+ls()
+x<-1:20
+w<-1+sqrt(x)/2
+dummy<-data.frame(x=x, y=x+rnorm(x)*w)
+dummy
+fm<-lm(y~x, data=dummy)
+summary(fm)
+rm(fm, fm1, lrf, x, dummy)
+filepath<-system.file("data", "morley.tab", package="datasets")
+filepath
+file.show(filepath)
+mm<-read.table(filepath)
+mm
+mm$Expt<-factor(mm$Expt)
+mm$Run<-factor(mm$Run)
+mm
+mm$Expt
+mm$Run
+attach(mm)
+plot(Expt, Speed, main="Speed of Light Data", xlab="Experiment No.")
+fm<-aov(Speed~Run+Expt, data=mm)
+summary(fm)
+detach()
+rm(fm,fm0)
+ls()
+install.packages(ndl)
+install.packages("ndl")
+?estimateActivations
+?estimateActivation
+library(ndl)
+?estimateActivation
+?estimateActivations
+load(".RData")
+setwd("~/SURFdrive/current/demos/github/laf-fabric-nbs/valence/")
+loadhistory()
+loadhistory(file=".Rhistory")
+history()
+load(".Rdata")
