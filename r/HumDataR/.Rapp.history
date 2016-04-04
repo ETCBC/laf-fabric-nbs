@@ -1,0 +1,202 @@
+help.start()
+x <- rnorm(50)
+y <- rnorm(x)
+plot(x,y)
+ls()
+rm(x,y)
+x <- rnorm(50)
+rm(x,y)
+x <- rnorm(50)
+y <- rnorm(x)
+plot(x,y)
+rm(x,y)
+x <- rnorm(10)
+y <- x
+plot(x,y)
+rm(x,y)
+x <- rnorm(50)
+y <- sqrt(x)
+rm(y)
+y <- x*x
+plot(x,y)
+z <- x*x*x
+plot(x,z)
+plot(z,x)
+plot(y,x)
+x <- rnorm(50)
+y <- rnorm(x)
+plot(x,y)
+rm(x,y)
+x <- rnorm(50)
+y <- x*x
+plot(x,y)
+plot(y,x)
+help.start()
+read.table("/Users/dirk/Scratch/shebanq/results/db/total/distant/rstats.txt")
+verses <- read.table("/Users/dirk/Scratch/shebanq/results/db/total/distant/rstats.txt")
+label <- verses[[1]]
+t <- verses[[2]]
+plot(label, t)
+exit
+dummy <- data.frame(x=x, y=x+rnorm(x)*w)
+ls
+ls()
+rm character
+rm(character)
+ls()
+x<-1:20
+w<-1+sqrt(x)/2
+dummy<-data.frame(x=x, y=x+rnorm(x)*w)
+dummy
+fm<-lm(y~x, data=dummy)
+summary(fm)
+rm(fm, fm1, lrf, x, dummy)
+filepath<-system.file("data", "morley.tab", package="datasets")
+filepath
+file.show(filepath)
+mm<-read.table(filepath)
+mm
+mm$Expt<-factor(mm$Expt)
+mm$Run<-factor(mm$Run)
+mm
+mm$Expt
+mm$Run
+attach(mm)
+plot(Expt, Speed, main="Speed of Light Data", xlab="Experiment No.")
+fm<-aov(Speed~Run+Expt, data=mm)
+summary(fm)
+detach()
+rm(fm,fm0)
+ls()
+install.packages(ndl)
+install.packages("ndl")
+?estimateActivations
+?estimateActivation
+library(ndl)
+?estimateActivation
+?estimateActivations
+install.packages(c('rzmq','repr','IRkernel','IRdisplay'),#
+                 repos = c('http://irkernel.github.io/', getOption('repos')))
+stein = c('a', 'rose', 'is', 'a', 'rose', 'is', 'a', 'rose')
+stein
+stein.fac = factor(stein)
+stein.fac
+install.packages('modeest')
+help(mirror)
+help(install)
+help(install.packages)
+install.packages('modeest', repos='https://cran.uni-muenster.de')
+q()
+data.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt')
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt')
+help(read.table)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt', header=TRUE)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt', header=TRUE, strip.white=FALSE)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE, skipNul = FALSE)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE, skipNul = FALSE, strip.white=FALSE)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE, sep='\t')
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt', header=TRUE, sep='\t')
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE, sep='\t')
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt', header=TRUE, sep='\t')
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE, sep='\t')
+help(read.table)
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewrr.txt', header=TRUE, sep='\t', comment.char="")
+read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt', header=TRUE, sep='\t', comment.char="")
+etcbc = read.table('/Users/dirk/SURFdrive/laf-fabric-output/etcbc4b/hinr/hebrewr.txt', header=TRUE, sep='\t', comment.char="")
+str(etcbc)
+etcbc$g_word_utf8[]
+attach(etcbc)
+etcbc$g_word_utf8[1:10]
+etcbc[1:10,]
+etcbc[1:20,]
+etcbc[1:20, g_word_utf8]
+etcbc[1:20, 3]
+etcbc[1:20, 13]
+etcbc$g_word_utf8[1:20]
+etcbc$g_word_utf8[otype=="word"]
+etcbc = read.table(#
+    '/Users/dirk/SURFdrive/laf-fabric-data/r/etcbc4b.txt', #
+    sep="\t", #
+    header=TRUE, #
+    comment.char="",#
+    as.is = TRUE,#
+)#
+dim(etcbc)
+etcbc[989533,]
+etcbc[989532,]
+etcbc[989531,]
+etcbc[100,]
+etcbc[101,]
+etcbc[102,]
+etcbc[999,]
+etcbc[10003,]
+etcbc[100008,]
+etcbc[100007,]
+etcbc[100006,]
+etcbc[100005,]
+etcbc[100004,]
+etcbc[50005,]
+etcbc[74996,]
+etcbc[89997,]
+etcbc[95003,]
+etcbc[98004,]
+etcbc[99001,]
+etcbc[99900,]
+etcbc[99874,]
+etcbc[99873,]
+> etcbc = read.table(#
++     '/Users/dirk/SURFdrive/laf-fabric-data/r/etcbc4b.txt', #
++     sep="\t", #
++     header=TRUE, #
++     comment.char="",#
++     as.is = TRUE,#
++ )#
+> dim(etcbc)
+etcbc = read.table(#
+    '/Users/dirk/SURFdrive/laf-fabric-data/r/etcbc4b.txt', #
+    sep="\t", #
+    header=TRUE, #
+    comment.char="",#
+    as.is = TRUE,#
+)#
+dim(etcbc)
+etcbc[50000,]
+etcbc[1,]
+etcbc[10,]
+etcbc[10,1]
+etcbc[99001,]
+etcbc[99500,]
+etcbc[99800,]
+etcbc[99500,]
+etcbc[99400,]
+etcbc[99300,]
+etcbc[99200,]
+etcbc[99250,]
+etcbc[99240,]
+etcbc[99230,]
+etcbc[99220,]
+etcbc[99210,]
+etcbc[99215,]
+etcbc[99216,]
+etcbc[99217,]
+etcbc[99216,]
+help(read.table)
+etcbc = readRDS(#
+    file='/Users/dirk/SURFdrive/laf-fabric-data/r/etcbc4b.rds'#
+)#
+dim(etcbc)
+1
+c(1,2,3)
+help(table)
+help(cwd)
+help(chwd)
+??chwd
+??cwd
+pwd()
+setwd('/Users/dirk/SURFdrive/current/demos/github/laf-fabric-local/r/HumDataR')
+mm = 1/25.4
+pdf(file="test.pdf", width=100*mm, height=100*mm)
+plot(c(1,3,5), c(2,4,6))
+dev.off()
+q
