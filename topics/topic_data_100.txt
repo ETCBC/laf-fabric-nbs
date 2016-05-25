@@ -1,0 +1,500 @@
+ Tpc 0                    adjv strong               nmpr Sheshan              nmpr Jehohanan            nmpr Persia               subs hook                 
+                          subs fatness              subs posterior            nmpr Uzziel               nmpr Hallohesh            subs maid                 
+                          subs bread of consolation verb open                 subs pivot                subs arrow                subs whistling            
+                          subs gleaning             verb block                verb let loose            subs couch                nmpr Hori                 
+                          
+ Tpc 1                    subs backside             verb cut                  subs injustice            subs effect               adjv afraid               
+                          nmpr Jehoiachin           subs hammered gold        subs hammered work        verb desire               verb tread, to rule       
+                          verb be smooth            adjv foolish              verb heap stones          verb anoint               nmpr Eliphaz              
+                          nmpr Ram                  subs dung                 nmpr Binnui               nmpr Jahaziel             subs place                
+                          
+ Tpc 2                    subs kind                 subs god                  subs finger               subs stupidity            verb divine               
+                          verb accompany            nmpr Zibeon               verb smoke                subs end                  subs ark                  
+                          nmpr Mahalalel            nmpr Elioenai             nmpr Zabdi                subs dough                subs hire                 
+                          nmpr Eliashib             adjv Naamathite           verb tremble              nmpr Jebus                verb blaspheme            
+                          
+ Tpc 3                    nmpr Hanan                subs tower                nmpr Makkedah             subs interest             adjv sinful               
+                          subs farmer               nmpr Ophel                subs lamp stand           nmpr Shelah               subs property             
+                          subs wild oxen            subs breaking             subs act of violence      subs destruction          nmpr Eber                 
+                          subs end                  subs sustenance           subs grass                nmpr Baalah               adjv new                  
+                          
+ Tpc 4                    subs flute                verb swear                subs company              verb curse                subs mouth                
+                          verb be dull              adjv in Aramaic           subs chief                verb roast                subs young ewe-lamb       
+                          subs food                 verb be calm              subs resting place        nmpr Ebenezer             adjv lame                 
+                          subs end                  nmpr Zipporah             subs doe                  verb entreat              nmpr Eshton               
+                          
+ Tpc 5                    subs tail                 verb labour               subs seer                 verb cry                  nmpr Darius               
+                          verb treat violently      subs slope                nmpr Euphrates            nmpr Eliashib             verb be able              
+                          adjv reliable             verb despair              verb be powerful          verb be slack             subs resting place        
+                          subs best                 nmpr Jeshua               subs lords                subs depth                subs apple-tree           
+                          
+ Tpc 6                    subs model                subs survivor             adjv labouring            verb distort              verb pour                 
+                          nmpr Gibeon               subs eleven               subs homer                prps we                   subs fowler               
+                          subs terror               adjv small                subs high official        subs answer               subs disobedience         
+                          subs packsaddles          subs whistling            subs circle               nmpr Zibiah               subs ankle                
+                          
+ Tpc 7                    verb oppress              nmpr Omri                 subs miracle              subs swarm                subs pool                 
+                          verb draw off             verb laugh                advb there                subs poverty              subs labour pains         
+                          subs guilt                subs texture              subs father-in-law        nmpr Naamah               nmpr Abednego             
+                          verb push back            subs hope                 subs single hair          nmpr Etam                 subs fort                 
+                          
+ Tpc 8                    subs present              nmpr Miriam               subs boundary             nmpr Obadiah              subs captivity            
+                          verb stand                verb treat violently      nmpr Ishi                 nmpr Arabs                adjv -lehemite            
+                          subs flame                subs head-place           subs something tasteless  nmpr Habor                subs nakedness            
+                          adjv Danite               nmpr Cabul                nmpr Jotbathah            nmpr Oboth                verb swing                
+                          
+ Tpc 9                    adjv small                nmpr Amasa                verb spoil                adjv straight             adjv pleasant             
+                          adjv Gileadite            nmpr Seth                 subs food                 verb be great             inrg how                  
+                          subs hunting              nmpr Abishua              adjv Recabite             subs storages             nmpr Tobijah              
+                          subs fashion              subs ploughshare          subs hammer               subs paleness             verb go around            
+                          
+ Tpc 10                   nmpr Abinadab             subs foreskin             subs sandal               verb gather               advb perhaps              
+                          subs proverb              nmpr Pedahzur             nmpr Amasa                adjv weary                subs cord                 
+                          verb do wrong             subs heap                 subs mina                 subs knowledge            adjv quick                
+                          subs rags                 verb melt                 nmpr Golan                subs ornament             nmpr Ahisamach            
+                          
+ Tpc 11                   verb cling, cleave to     nmpr Zedekiah             subs blow                 verb admonish             nmpr Jonathan             
+                          adjv Jebusite             subs governor             verb be clean             subs help                 subs hall                 
+                          adjv uncircumcised        subs root                 verb be father-in-law     nmpr Seir                 subs pomegranate          
+                          subs fear                 subs linen                adjv mighty               verb rest                 subs foreigner            
+                          
+ Tpc 12                   nmpr Noah                 verb vow                  subs corner               nmpr Elnathan             adjv pure                 
+                          subs breach               subs cord                 nmpr Onam                 nmpr Lachish              subs almond tree          
+                          nmpr Galal                nmpr Binnui               subs length               subs willingness          subs rain                 
+                          nmpr Hena                 subs casting              subs opening              subs dashing              adjv ready                
+                          
+ Tpc 13                   subs letter               nmpr Joiada               nmpr Azarel               nmpr Jehiel               subs channel              
+                          subs foundation           subs precious stone       verb have skin-disease    prde that                 nmpr Shobai               
+                          subs nail                 verb whisper              subs dwelling tower       subs <uncertain>          nmpr Kish                 
+                          nmpr Beeroth              verb wear out             nmpr Nemuel               nmpr Zimri                verb be heedless          
+                          
+ Tpc 14                   verb putrefy              verb cast                 verb quake                verb meet                 adjv long                 
+                          intj aha                  verb be wakeful           subs song                 nmpr Sharon               adjv great                
+                          subs kor                  nmpr Azekah               subs weeping              subs linen                subs looking              
+                          subs summer               subs alabaster            verb gather               subs shouting             verb be afraid            
+                          
+ Tpc 15                   subs scorpion             subs rise                 subs interpretation       subs creeping animals     nmpr Henadad              
+                          nmpr Elath                verb restrain             nmpr Ono                  adjv great                adjv dainty               
+                          subs wool                 verb stand                adjv Jehieli              subs storm                subs nightshade           
+                          subs marshland            subs battering-ram        subs rain cloud           subs deed                 subs <uncertain>          
+                          
+ Tpc 16                   verb be infatuated        nmpr Ezra                 nmpr Jeiel                subs jar                  subs love                 
+                          nmpr Gehazi               nmpr Jedaiah              verb be at ease           verb tread down           adjv bereaved of children 
+                          verb roast                subs perfume              subs room                 verb paw the ground       subs viper                
+                          nmpr Haggith              subs pool                 verb tear                 subs moustache            subs date-palm            
+                          
+ Tpc 17                   subs high place           subs shadow               subs board                verb err                  subs lamb                 
+                          adjv foreign              subs splendour            subs happiness            verb shape                verb humiliate            
+                          verb drive out            verb have labour pain, to cry verb moisten, confound    subs word                 subs breaking             
+                          verb look out             verb abandon              verb try                  subs coast, island        subs milk                 
+                          
+ Tpc 18                   nmpr Shechem              subs curtain              verb shout                nmpr Korah                subs chariot              
+                          nmpr Rebekah              subs tunic                subs artisan              subs food                 nmpr Baruch               
+                          subs uncleanness          verb pour                 nmpr Persia               verb tie                  verb break                
+                          nmpr Issachar             verb open                 nmpr Sisera               subs kingship             adjv hired                
+                          
+ Tpc 19                   nmpr Adaiah               verb tear down            verb become rich          verb be afraid            nmpr Dishon               
+                          nmpr Sanballat            verb alienate             subs pebble               verb grope                nmpr <judge>              
+                          nmpr Machpelah            nmpr Talmon               subs canal                subs navel                nmpr Sheba                
+                          nmpr Zeruiah              nmpr Jattir               verb measure              subs appendage            subs piece                
+                          
+ Tpc 20                   nmpr Cyrus                subs reed                 nmpr Shur                 verb adorn                nmpr Sheva                
+                          verb kick                 nmpr Ashbel               nmpr Jakin                subs marriage-money       subs sprout               
+                          nmpr Jaddua               advb thus                 subs wood                 subs iniquity             subs stop                 
+                          nmpr Mahlon               adjv guilty               subs rottenness           subs lotus                verb besprinkle           
+                          
+ Tpc 21                   subs division             subs plot of land         verb filter               verb make haste           intj behold               
+                          adjv stupid               subs terror               nmpr Paseah               nmpr Ahasuerus            verb howl                 
+                          subs whip                 subs ram                  subs comfort              subs jackal               nmpr Jehoiakim            
+                          nmpr Hamath               subs anger                nmpr Enan                 nmpr Eliphaz              subs strokes              
+                          
+ Tpc 22                   subs seah                 nmpr Kohath               subs head-gear            adjv rebellious           nmpr Ephrathah            
+                          verb cast lot             subs division             adjv stupid               nmpr <mountain>           nmpr <son of Gilead>      
+                          subs robbery              subs corpse               nmpr Ebiasaph             adjv pleasant             subs <uncertain>          
+                          subs missile              subs dung-cake            verb be stupid            nmpr Nimrim               nmpr Siw                  
+                          
+ Tpc 23                   verb be corrupt           subs kingship             nmpr Beth Aven            subs gazelle              verb cut                  
+                          subs knowledge            subs end                  subs destruction          subs cake                 nmpr Uriel                
+                          subs shouting             verb cleave               verb hide                 subs horns                adjv Temanite             
+                          verb saddle               nmpr Noah                 nmpr Shema                nmpr Zeresh               subs whisper              
+                          
+ Tpc 24                   nmpr Carmi                verb advance              subs loops                nmpr Ararat               nmpr Helon                
+                          subs basket               nmpr <locality>           verb sprout               subs abundance            subs planting             
+                          nmpr Rehob                subs fatling              subs height               subs razor                nmpr Nephtoah             
+                          subs flint                verb detest               subs arrangement          subs ransom               subs taste                
+                          
+ Tpc 25                   verb kill                 adjv Hebrew               verb hunt                 nmpr Peleg                nmpr Maaseiah             
+                          subs uproar               subs darkness             nmpr Shimri               subs palate               subs sinew                
+                          subs undertaking          subs possession           verb rove about           subs parched grain        verb swing                
+                          subs bone                 subs seal                 subs boy                  subs forgiveness          verb dishearten           
+                          
+ Tpc 26                   subs labour               subs wheat groat          subs camel                adjv at the back          nmpr Almighty             
+                          subs hips                 verb hurt                 verb be slack             subs sealing ring         nmpr Joash                
+                          subs tablet               nmpr Mizpah               subs yoke                 verb be pregnant          adjv afraid               
+                          verb stand                adjv bitter               subs lamp stand           subs wheel                verb be low               
+                          
+ Tpc 27                   subs offence              subs tear                 verb root out             nmpr Ishmael              intj surely               
+                          verb beguile              subs taste                subs fig                  subs uproar               adjv Moabite              
+                          nmpr Hezekiah             adjv at ease              verb rebuke               verb lead                 subs exploration          
+                          subs what is sold         subs sin                  nmpr Belshazzar           nmpr Jabin                subs pot                  
+                          
+ Tpc 28                   adjv Ammonite             nmpr Teman                subs scaly mail           verb entreat              subs music                
+                          subs beaming eyes         nmpr Pedaiah              subs refuge               verb be right             nmpr Kedar                
+                          subs son-in-law           subs place                verb storm against        subs perversity           nmpr Medeba               
+                          verb shine                subs fork                 subs bulb                 nmpr Hazo                 nmpr Kenan                
+                          
+ Tpc 29                   subs storm                subs incense-stand        subs counsel              adjv mighty               subs dry ground           
+                          nmpr Menahem              verb explain              subs leafage              subs account              prep to                   
+                          nmpr Abishai              subs bat                  subs row                  subs evil report          nmpr Jehallelel           
+                          nmpr Abihail              nmpr Elimelech            verb clip                 subs oar                  subs dark place           
+                          
+ Tpc 30                   verb run                  subs joint                nmpr Sinai                subs life preservation    nmpr Elasah               
+                          subs <oracle device>      subs fortification        verb grumble              subs lead                 adjv new                  
+                          subs neck                 nmpr Tema                 adjv Arab                 verb profit               adjv reddish              
+                          adjv profane              subs fourth part          subs lightning            verb warn                 verb faint                
+                          
+ Tpc 31                   verb be little            subs thorn                verb forgive              adjv entire               nmpr Mishael              
+                          verb tread on             subs homer                verb borrow               subs fly                  subs error                
+                          subs decay                subs wreath               verb clap                 subs rebuke               verb be faint             
+                          subs ewe                  adjv dry                  subs what is lost         subs work                 verb become weak          
+                          
+ Tpc 32                   verb look for             verb cleave               subs fornication          verb boast                subs kidney               
+                          verb wash                 adjv Tekoite              verb hew                  subs elegy                verb go away              
+                          adjv ready                verb toss                 subs pest                 subs profit               subs turban               
+                          subs might                adjv Beerothite           subs ford                 subs stubbornness         subs gera                 
+                          
+ Tpc 33                   nmpr Ladan                nmpr Izrahiah             nmpr Zur                  nmpr <king>               subs place                
+                          subs counselor            subs striving             verb ascend               verb be sleepless         verb hurt                 
+                          verb dig                  adjv treacherous          subs power                subs pleasure             nmpr Shaalbim             
+                          subs assembly             subs might                adjv small                nmpr Raphah               nmpr Shemed               
+                          
+ Tpc 34                   verb transplant           subs flood                nmpr Jerub-Baal           adjv dim                  adjv fresh                
+                          subs pain                 subs turning point        nmpr Jether               subs trust                subs youth                
+                          subs locust               verb be missing           adjv Ammonite             adjv slack                subs prophetess           
+                          subs redemption           adjv Hivite               subs <uncertain>          subs perfection           nmpr Kue                  
+                          
+ Tpc 35                   subs youth                verb give attention       adjv strong               verb steal                verb oppress              
+                          subs flock                subs image                verb lament               verb come                 verb commit adultery      
+                          verb be strong            nmpr Lot                  verb kindle               adjv loyal                subs height               
+                          advb thus                 verb hide                 verb break                subs utterance            subs harp                 
+                          
+ Tpc 36                   nmpr Zadok                subs he-goat              subs ephod                verb divide               verb wield                
+                          verb cry of joy           nmpr the Lord             verb warn, to witness     verb strip off            subs glory                
+                          subs height               verb scatter              verb have compassion      verb wrap, be narrow      verb swallow              
+                          verb separate             inrg where                subs gathering            subs steadiness           verb quake                
+                          
+ Tpc 37                   subs couch                verb take captive         verb overtake             subs lamp                 subs man                  
+                          verb rebel                verb be dry               nmpr Gilgal               verb be humble            subs proverb              
+                          nmpr Simeon               nmpr Asher                verb rejoice              subs vine                 subs dawn                 
+                          subs nakedness            nmpr Gedaliah             nmpr Hazael               verb recognise            subs salt                 
+                          
+ Tpc 38                   subs sack                 verb spoil                nmpr Zicri                subs destruction          verb wither               
+                          subs prisoner             subs wheat                adjv wise                 subs walk                 subs heron                
+                          adjv sinful               subs palm-ornament        subs sinew                subs breaking             nmpr Eber                 
+                          subs exile                subs foliage              nmpr Adonijah             nmpr Lachish              nmpr Achan                
+                          
+ Tpc 39                   nmpr Josiah               verb gird                 verb have compassion      subs drinking             adjv heavy                
+                          subs purple-wool          verb meet                 subs butcher              subs barley               subs eagle                
+                          verb be weary             verb explore              subs wheat                nmpr Abijah               nmpr Ramah                
+                          verb be light             subs fortification        verb do wrong             nmpr Obed-edom            nmpr Ahijah               
+                          
+ Tpc 40                   subs cord                 subs menstruation         verb kiss                 subs side                 nmpr <town>               
+                          subs prefect              verb be hard              verb turn                 subs week                 adjv female               
+                          subs shouting             subs issue                verb taboo                verb meet                 nmpr Hashabiah            
+                          nmpr Zalmunna             subs anger                nmpr <king of edom>       subs deed                 adjv compassionate        
+                          
+ Tpc 41                   verb ponder               subs refuge               nmpr <land of gold>       subs lock                 nmpr Sepharvaim           
+                          verb wait                 nmpr Shephatiah           subs happiness            nmpr Ephron               nmpr Zerahiah             
+                          nmpr Adar                 verb be straight          subs street               subs vomit                nmpr Malki-Shua           
+                          verb break                verb seduce               subs doe                  verb be astounded         verb long                 
+                          
+ Tpc 42                   verb be angry             verb spread               nmpr Jozadak              subs missile              subs leanness             
+                          subs fixed place          verb tremble              verb dig                  subs expenses             subs divination           
+                          subs terror               nmpr Nimshi               nmpr Geshur               verb rise                 verb search               
+                          nmpr Zebulun              verb err                  adjv Tizite               nmpr Jaareshiah           nmpr Jekuthiel            
+                          
+ Tpc 43                   subs row                  subs ten thousand         adjv eastern              subs hope                 nmpr Jeremoth             
+                          verb mix                  subs apostasy             subs purity               verb sing                 subs hyssop               
+                          verb slander              verb <uncertain>          nmpr Succoth              verb deceive              nmpr Ezra                 
+                          subs son                  subs destruction          subs ointment pot         adjv foolish              nmpr Tekoa                
+                          
+ Tpc 44                   subs virgin               subs sack                 verb pour                 subs asherah              prps they                 
+                          subs town                 subs harvest              subs dew                  subs massebe              subs cloud                
+                          subs matzah               adjv correct              subs anointed             subs neck                 nmpr Cush                 
+                          subs free will            subs tower                nmpr Nebat                nmpr Shiloh               subs kidney               
+                          
+ Tpc 45                   nmpr Micmash              verb be new               verb be wakeful           nmpr Sanballat            subs brightness           
+                          subs cause                subs surface              verb break                subs frog                 verb buy grain            
+                          nmpr Tubal                nmpr Jediael              subs staff                subs tail                 nmpr Jarib                
+                          subs beam                 subs pivot                verb be weighty           adjv Manassite            subs bread                
+                          
+ Tpc 46                   verb create               subs plantation           nmpr Meshelemiah          subs south                verb be sharp             
+                          nmpr Pekod                subs gathering            subs band                 subs diseases             verb bear grudge          
+                          nmpr Jeruel               nmpr Pispah               nmpr Atroth Beth Joab     nmpr Aiah                 verb interpret            
+                          nmpr Hatita               verb shine                verb feed                 advb but                  subs madness              
+                          
+ Tpc 47                   subs dedication           subs mound                adjv Gittite              adjv light                adjv innocent             
+                          advb perhaps              verb drop                 nmpr Hazeroth             nmpr <Egypt>              adjv Tyrian               
+                          subs egg                  subs flame                verb entreat              nmpr Uz                   verb sit                  
+                          subs tree-top             nmpr Ebed-Melech          verb ensnare              subs oath                 verb wet                  
+                          
+ Tpc 48                   subs arrow                subs Passover             verb restrain             subs smell of appeasement subs cither               
+                          subs rain                 verb be deaf              verb lie in ambush        subs olive                verb split                
+                          subs wickedness           subs commission           verb toss                 subs something            verb saddle               
+                          nmpr Shaphan              subs end                  subs knee                 subs violence             subs wickedness           
+                          
+ Tpc 49                   subs beginning            subs lefthand side        subs next day             nmpr Asaph                nmpr Naphtali             
+                          verb despise              verb draw off             verb hide                 subs best                 verb totter               
+                          subs riches               subs garden               subs guilt                subs beginning            adjv right-hand           
+                          verb avenge               nmpr Micah                verb plough               adjv external             verb be wise              
+                          
+ Tpc 50                   subs valley               subs child                verb lock                 subs frost                subs harvest              
+                          subs attentiveness        nmpr Deuel                subs temple slave         subs shouting             verb eat                  
+                          adjv humble               nmpr Rephaim              nmpr Shaaph               nmpr Uzzi                 subs yoke-bar             
+                          subs flax                 verb break                subs middle               subs couch                adjv tyrant               
+                          
+ Tpc 51                   subs unapproachable       nmpr Chemosh              subs destruction          verb cover                nmpr Nineveh              
+                          subs greatness            subs lead                 nmpr Shecaniah            subs dominion             nmpr Milcom               
+                          subs eagle                subs quail                subs deposit              verb laugh                nmpr Shammai              
+                          nmpr Miniamin             nmpr Bilgah               subs letter               nmpr Hagabah              subs two                  
+                          
+ Tpc 52                   subs wood                 nmpr Laban                verb like                 subs burden               verb found                
+                          verb be good              subs fullness             verb draw                 subs deceit               subs yield                
+                          verb wipe                 subs dog                  subs trust                nmpr Baasha               subs grief                
+                          verb be united            advb in vain              verb laugh                nmpr Zeruiah              subs vanity               
+                          
+ Tpc 53                   nmpr Adin                 verb be great             subs spark                adjv apostate             adjv apostate             
+                          adjv ceasing              subs hope                 adjv complete             nmpr Hodiah               subs lords                
+                          nmpr Hammedatha           subs season               verb be worried           subs shame                nmpr Shelemiah            
+                          subs billhook             nmpr Dimon                nmpr Nahash               subs uproar               subs remitting            
+                          
+ Tpc 54                   verb lie down             nmpr Jesse                nmpr Arnon                subs ark                  verb reject               
+                          nmpr Elam                 nmpr Darius               subs purification         nmpr Zimri                subs moon                 
+                          subs curse                subs joy                  nmpr Benaiah              subs uncleanness          subs serpent              
+                          nmpr Eden                 subs brightness           verb mutter               verb vow                  subs ornament             
+                          
+ Tpc 55                   subs door-post            subs dust                 nmpr Remaliah             subs woven stuff          subs pleasure             
+                          verb be worn out          verb incite               subs flour                adjv Shunammite           nmpr Terah                
+                          nmpr Azel                 nmpr Meraioth             nmpr Hizkiah              nmpr Ethan                subs fatling              
+                          verb come                 adjv Hebronite            nmpr Shem                 verb crush                verb rush                 
+                          
+ Tpc 56                   subs sambuca              verb be cunning           subs single hair          subs town                 subs juice                
+                          subs branch               adjv long                 nmpr Nobah                subs owlet                subs broom                
+                          subs downtreading         nmpr Elzabad              nmpr half the Manahathites nmpr Madmannah            subs piece                
+                          nmpr Uzai                 nmpr Imri                 nmpr Tattenai             subs <unknown>            subs herbs                
+                          
+ Tpc 57                   subs chamber              subs earth                subs lapis lazuli         subs pit                  subs thread               
+                          adjv sinful               subs duration of life     nmpr Hananel              nmpr Aijalon              subs refuge               
+                          subs sea-monster          subs nobles               verb catch sight          nmpr Ephrathah            verb labour               
+                          nmpr Upper Egypt          nmpr Seraiah              verb roar                 nmpr Megiddo              verb oppress              
+                          
+ Tpc 58                   subs idol                 verb be easy              nmpr Gihon                subs care                 verb be light             
+                          adjv approaching          nmpr <king>               verb divide               subs fog                  adjv short                
+                          subs wreath               adjv light                nmpr Tyrus                adjv pale-green           subs bull                 
+                          nmpr Moreh                verb be drunk             subs collection           subs purple               subs cause                
+                          
+ Tpc 59                   subs honey                subs word                 adjv full                 adjv small                subs queen                
+                          subs doing                inrg when                 subs wine                 subs shame                verb bind                 
+                          adjv high                 subs loose conduct        nmpr Sarah                inrg whither              subs cover                
+                          verb suck                 adjv complete             subs completeness         verb fast                 subs lords                
+                          
+ Tpc 60                   subs target               subs site                 nmpr Ezion Geber          subs bag                  verb turn left            
+                          subs seer                 nmpr Avvim                verb harvest              nmpr Heber                prps they                 
+                          intj aha                  verb be weary             verb strip                adjv Ezrahite             subs brightness           
+                          subs terrace              subs tuft                 subs Passover             verb arbitrate            nmpr Ishi                 
+                          
+ Tpc 61                   nmpr Bicri                verb break                subs wilderness           verb be good              subs temple slave         
+                          subs bread                verb honour               subs joy                  verb end                  subs pasture              
+                          verb hurt                 nmpr Shiloh               verb divine               subs lentil               subs age                  
+                          verb be much              nmpr Besai                nmpr Ruth                 verb spread               verb groan                
+                          
+ Tpc 62                   nmpr Rehoboam             nmpr Jehoiada             verb change               subs trembling            nmpr Rachel               
+                          verb teach                verb refuse               subs ephah                nmpr Merari               nmpr Balak                
+                          adjv poor                 subs heaven               subs primeval ocean       subs pleasure             subs side                 
+                          subs porter               subs company              verb circumcise           verb quake                nmpr Jehoiakim            
+                          
+ Tpc 63                   subs upper room           verb lay waste            verb be angry             subs equipment            verb ascend               
+                          subs body                 subs poor                 nmpr Topheth              subs profit               subs horror               
+                          verb propound a riddle    subs shovel               subs he-goat              nmpr Mattithiah           nmpr Zerubbabel           
+                          nmpr Shelemiah            subs stress               subs flint                verb stir                 subs cud                  
+                          
+ Tpc 64                   subs lion                 verb deal treacherously   verb sing                 subs pleasure             subs guilt                
+                          subs captive              subs porch                nmpr Amalek               subs corn                 verb arrange              
+                          verb support              verb be angry             verb deal with            verb hide                 subs neck                 
+                          subs scarlet              nmpr Ishmael              subs dwelling tower       nmpr Hiram                verb seal                 
+                          
+ Tpc 65                   subs figure               nmpr Hasshub              nmpr Meshach              subs beauty               nmpr Abidan               
+                          subs savoury food         verb overpower            subs wine-press           subs virginity            verb advance              
+                          subs swallow              verb pluck                subs son                  verb thrive               nmpr Hezekiah             
+                          nmpr Nebat                subs unapproachable       nmpr Holon                subs ambush               subs covering             
+                          
+ Tpc 66                   verb purge                nmpr Amminadab            nmpr Ezra                 subs foot-stool           nmpr Nathan               
+                          nmpr Baanah               verb confuse              adjv unwell               verb flash up             nmpr Kadmiel              
+                          nmpr Miriam               nmpr Jeshaiah             subs massage              subs <uncertain>          subs grape                
+                          verb encompass            subs inhabitant           subs side                 nmpr Joiarib              verb boil                 
+                          
+ Tpc 67                   conj if                   verb be stormy            verb be high              verb recognise            subs looseness            
+                          verb trade                subs rumour               nmpr Ain                  nmpr Pelet                nmpr Ahasuerus            
+                          subs bough                subs sailor               verb <uncertain>          nmpr Zeboim               nmpr Delilah              
+                          subs chief                nmpr Shechem              nmpr Sheshai              nmpr Baal Zephon          nmpr Naphtali             
+                          
+ Tpc 68                   verb be pleasing          subs supplication         adjv clear                nmpr Horonaim             subs leopard              
+                          verb whistle              nmpr <locality>           subs row                  verb draw water           nmpr Meshech              
+                          nmpr Salma                verb be clean             nmpr Ahaziah              subs convulsion           adjv fifth                
+                          verb succeed              subs crookedness          subs saying               subs hope                 subs minium               
+                          
+ Tpc 69                   verb rejoice              subs healing              verb tread, to rule       nmpr Ruth                 verb sow                  
+                          verb flee                 verb be hot               subs pool                 verb shout                subs labour pains         
+                          subs clay                 nmpr Jahzah               nmpr Marah                verb hunt                 subs concubine            
+                          verb creep                nmpr Gershon              subs autumn               subs firmament            nmpr Mijamin              
+                          
+ Tpc 70                   nmpr Shallum              verb be bereaved of children subs kind                 verb jump                 subs leaven               
+                          subs group of thousand    subs site                 verb be still             nmpr <mother of Dan Naphtali> adjv little               
+                          subs nakedness            verb burn                 subs upper thigh          nmpr Shimea               nmpr Benaiah              
+                          subs desire               nmpr Kibroth Hattaavah    nmpr Ayyah                nmpr Shinar               subs byssus               
+                          
+ Tpc 71                   nmpr Haman                verb sow                  subs deed                 verb consecrate           subs anger                
+                          subs food                 subs window               adjv sixth                verb examine              subs thought              
+                          verb seek refuge          intj woe                  subs cup                  verb contemn              subs uprightness          
+                          nmpr Ben-Hadad            subs moment               nmpr Jonah                subs lily                 verb cut                  
+                          
+ Tpc 72                   verb sweep away           subs span                 adjv smooth               nmpr Basemath             nmpr Ziph                 
+                          verb buy grain            adjv temple prostitute    adjv wise                 verb alienate             nmpr Horeb                
+                          subs unclean meat         subs magician             subs lord                 subs answer               nmpr Malkijah             
+                          nmpr Tabor                subs kingdom              subs terror               subs captives             verb abhor                
+                          
+ Tpc 73                   nmpr Nadab                subs prey                 subs next day             adjv Jezreelite           intj upon me              
+                          subs yoke-bar             subs roof                 subs curse                subs need                 subs bulwark              
+                          subs threshold            nmpr Eglon                adjv worn out             subs tent camp            subs drawer               
+                          verb seize at heel        subs bit                  nmpr Serug                nmpr Abishai              nmpr Goliath              
+                          
+ Tpc 74                   subs splendour            subs bulb                 subs yesterday            nmpr Zelophehad           subs neck                 
+                          subs cover of foliage     subs exile                subs gift                 nmpr Abdon                nmpr Meribah              
+                          subs possession           subs destruction          verb explore              subs day before yesterday nmpr Paran                
+                          adjv barefoot             subs quaking              adjv barefoot             subs saddle-bag           nmpr Ophrah               
+                          
+ Tpc 75                   subs clarion              subs consecration         subs cover of foliage     subs rope                 subs rebuke               
+                          verb wither               verb be like              nmpr Shem                 nmpr Beriah               verb act as priest        
+                          subs trust                verb creep                subs music                adjv cruel                subs darkness             
+                          subs thornbush            nmpr Mareshah             verb gather               subs podium               subs date-palm            
+                          
+ Tpc 76                   verb be terrified         subs chastening           subs spear                verb want                 subs official             
+                          subs ruin                 subs future               intj alas                 subs chief                adjv rare                 
+                          verb reproach             nmpr Azariah              subs concubine            verb make noise           subs way                  
+                          verb pull off             subs bowl                 adjv willing              subs adversary            adjv eighth               
+                          
+ Tpc 77                   advb thus                 subs orders               nmpr Mahlon               verb end                  verb rove about           
+                          nmpr Pagiel               subs griddle              nmpr Pelaiah              subs spate                subs <uncertain>          
+                          subs marching             subs necklace             subs store                subs lion                 subs night                
+                          subs water-skin           nmpr Euphrates            nmpr Shalleketh           nmpr Micri                nmpr Abitub               
+                          
+ Tpc 78                   subs secure height        subs he-goat              verb shake                subs breaker              subs kingdom              
+                          adjv pure                 subs property             nmpr Rephidim             subs sole?                nmpr Zerah                
+                          subs rottenness           subs course               subs attestation          nmpr Tiglath-Pileser      subs refuge               
+                          verb incite               nmpr Jadah                subs hall                 subs work                 subs bud                  
+                          
+ Tpc 79                   verb be bereaved of children nmpr Ish-Bosheth          subs wafer                subs dishonour            verb mock                 
+                          adjv Edomite              subs butler, irrigated, drink subs pledge               subs lapis lazuli         nmpr Pelatiah             
+                          nmpr Artaxerxes           subs leviathan            verb be cool              subs jar                  nmpr Rehob                
+                          nmpr Sin                  adjv complete             nmpr Jokshan              nmpr Arioch               nmpr Ludites              
+                          
+ Tpc 80                   nmpr Rehum                subs honey                subs bough                subs balances             subs provision            
+                          advb publicly known       subs corner               intj alas                 adjv foolish              nmpr Joram                
+                          subs dart                 subs dry land             subs basin                verb measure              subs honey                
+                          subs first-born woman     nmpr Adah                 verb flock together       nmpr Ardon                nmpr Salma                
+                          
+ Tpc 81                   subs destruction          adjv Sidonian             nmpr Hannah               subs eleven               verb make signs           
+                          nmpr Ehud                 subs earlobe              subs shore                verb be three             subs fetter               
+                          subs stress               subs splendour            inrg where                subs young lion           nmpr Bathsheba            
+                          nmpr Nebuchadnezzar       nmpr Gedaliah             nmpr Asaiah               verb gather grapes        subs skirt                
+                          
+ Tpc 82                   verb be discontent        verb disturb              advb by day               nmpr Nile                 verb rebel                
+                          nmpr Gideon               subs open place           inrg where                subs rain                 subs understanding        
+                          verb forgive              verb be just              verb deal fully           subs compassion           subs cave                 
+                          nmpr Eli                  nmpr Sodom                subs herb                 verb be at peace          subs generations          
+                          
+ Tpc 83                   subs spoil                verb dedicate             verb gasp                 subs wide place           subs wolf                 
+                          nmpr Noah                 nmpr <son of Gilead>      subs integrity            subs quaking              verb alloy                
+                          subs inaction             subs ploughing            adjv Adullamite           nmpr Dishan               verb turn                 
+                          verb set aside            nmpr Adar                 adjv tall                 subs bristling            subs looseness            
+                          
+ Tpc 84                   verb support              advb now                  subs plan                 subs ploughshare          adjv jealous              
+                          subs rage                 verb sprout               nmpr Issachar             subs pillar               subs statute              
+                          inrg how                  subs splendour            subs stall                verb strangle             nmpr Mephaath             
+                          subs strength             subs blisters             subs gnat                 verb scorch               verb divide               
+                          
+ Tpc 85                   subs valley               verb measure              verb break                verb flow                 verb wait, to hope        
+                          subs bar                  verb lead                 verb tear down            subs orders               nmpr Tyrus                
+                          nmpr Amaziah              subs lion                 verb escape               subs ban                  nmpr Leah                 
+                          verb tear                 subs star                 subs profit               nmpr Ahaz                 subs <those unable to march> 
+                          
+ Tpc 86                   subs weight               subs young man            verb kill                 nmpr Shimei               subs pest                 
+                          subs seat                 subs exile                verb be guilty            subs fort                 verb harvest              
+                          subs young lion           adjv blind                subs breath               subs cry of joy           subs molten image         
+                          subs serpent              subs ram                  subs shouting             verb take                 verb own                  
+                          
+ Tpc 87                   verb support              subs multitude            advb perhaps              subs sign                 nmpr Michael              
+                          subs cud                  verb wield                subs evildoer             nmpr Rapha                nmpr Ashkelon             
+                          nmpr Eliab                subs prophetess           subs hearsay              subs <uncertain>          subs locust               
+                          subs elegy                nmpr Rahab                subs scorching            nmpr Edrei                subs <spot on skin>       
+                          
+ Tpc 88                   adjv scorner              subs lightning            subs native               subs moon                 verb shine                
+                          verb be mad               verb be ruddy             verb cut off              adjv thin                 verb be white             
+                          verb level                nmpr Memphis              subs girdle               subs breast               subs bridle               
+                          nmpr Ashkelon             nmpr Ashtaroth            verb support              subs clay                 subs calmness             
+                          
+ Tpc 89                   subs slaughtering         subs rest                 nmpr Lud                  nmpr Pethahiah            subs singled out          
+                          subs drink                verb be stupid            nmpr Elizaphan            subs span                 nmpr Naphish              
+                          subs nursing woman        nmpr Beer Lahai Roi       subs she-gazelle          subs washing              subs desolation           
+                          adjv Nehelamite           nmpr Telassar             subs gourd-ornament       nmpr Zaphon               adjv loyal                
+                          
+ Tpc 90                   nmpr Bildad               verb swarm                subs trust                verb falter               nmpr Maharai              
+                          adjv fortified            subs of fourth generation subs savoury food         nmpr Shashak              nmpr Helah                
+                          nmpr Elioenai             subs refuse               verb long                 nmpr Gebal                nmpr Jaazaniah            
+                          nmpr Zimri                subs strike               subs thornbush            nmpr Hezion               nmpr Tahtim Hodshi        
+                          
+ Tpc 91                   subs gold                 nmpr Jered                verb be pleasing          adjv smitten              subs sting                
+                          adjv profane              subs new corn             subs bowl                 verb heat                 subs clod                 
+                          subs cloak                nmpr Amoz                 subs client               subs vision               nmpr Hiram                
+                          subs bastard              nmpr Haradah              nmpr Amram                adjv speckled             nmpr Paran                
+                          
+ Tpc 92                   subs beauty               nmpr Ammihud              verb descend              adjv full                 subs desire               
+                          nmpr Leah                 nmpr Rephaim              subs ship                 subs forced labour        subs neighbourhood        
+                          nmpr Shemaiah             nmpr Ahinoam              subs gleaning             subs gift                 verb blossom              
+                          verb scatter              verb suffer               verb be beautiful         nmpr Lachish              subs vinegar              
+                          
+ Tpc 93                   advb here                 verb wait for             subs idols                nmpr Samson               subs hiding place         
+                          nmpr Shemaiah             verb melt                 nmpr Nebuchadnezzar       subs understanding        subs ram                  
+                          nmpr Esther               subs balsam-tree          subs writing              subs anger                subs capital              
+                          verb gather               subs help                 subs idol                 subs height               verb be fertile           
+                          
+ Tpc 94                   adjv hard                 verb be mighty            adjv alienated            subs south                verb curse                
+                          subs hiding place         verb perfect              nmpr Elijah               subs target               nmpr Gaal                 
+                          verb go away              subs tongue               subs neck                 verb stand                subs fear                 
+                          subs cleanness            subs height               nmpr Othniel              nmpr Ocran                nmpr Adah                 
+                          
+ Tpc 95                   subs chief                subs iron                 adjv Kohathite            verb incite               nmpr Meshullam            
+                          subs young grass          prps I                    verb trade                verb be strong            verb stink                
+                          nmpr Jehozadak            subs shank                subs steed                nmpr Boaz                 subs locust               
+                          subs basket               nmpr Bebai                subs folly                adjv light                nmpr Abiram               
+                          
+ Tpc 96                   subs net                  verb stand bail           subs heat                 verb tread down           subs rest                 
+                          subs elder                nmpr Arpad                adjv rare                 nmpr Beth Shan            subs price                
+                          verb wash                 nmpr Epher                subs adornment            subs cord                 verb attack               
+                          nmpr Siddim               subs life                 verb be equipped          subs honey-comb           verb kindle               
+                          
+ Tpc 97                   subs contention           verb fine                 nmpr Abiezer              nmpr Amos                 nmpr Aijalon              
+                          subs sojourner            verb spread out           subs reward               verb spread out           subs bud                  
+                          subs depression           verb array                subs garment              subs <uncertain>          subs neighing             
+                          subs span                 verb deceive              nmpr Abida                verb tear away            nmpr Naarai               
+                          
+ Tpc 98                   verb cry                  subs corpse               subs purple wool          subs ascent               subs she-ass              
+                          subs orphan               nmpr Damascus             nmpr Isaiah               subs worm                 nmpr Gath                 
+                          verb be long              adjv Hittite              nmpr Ai                   subs front                verb sprout               
+                          verb cast                 verb be jealous           nmpr Nathan               verb draw                 subs thanksgiving         
+                          
+ Tpc 99                   subs blemish              verb cover                verb regard               subs plating              subs gazelle              
+                          verb scatter              nmpr Athaliah             verb hurt                 subs weariness            verb spoil                
+                          subs tenth                nmpr Meunites             verb inquire              nmpr Hamutal              adjv sullen               
+                          nmpr Doeg                 subs jar                  verb spoil                subs poplar               inrg where                
+                          
